@@ -1,0 +1,7 @@
+C:\Stude\Методы оптимезации\практика5\практика5\bin\Debug\практика5.exe.config
+C:\Stude\Методы оптимезации\практика5\практика5\bin\Debug\практика5.exe
+C:\Stude\Методы оптимезации\практика5\практика5\bin\Debug\практика5.pdb
+C:\Stude\Методы оптимезации\практика5\практика5\obj\Debug\практика5.csproj.AssemblyReference.cache
+C:\Stude\Методы оптимезации\практика5\практика5\obj\Debug\практика5.csproj.CoreCompileInputs.cache
+C:\Stude\Методы оптимезации\практика5\практика5\obj\Debug\практика5.exe
+C:\Stude\Методы оптимезации\практика5\практика5\obj\Debug\практика5.pdb
